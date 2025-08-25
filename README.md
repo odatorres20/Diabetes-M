@@ -1,4 +1,4 @@
-Personal ML project - Diabetes prediction
+**Personal ML project - Diabetes prediction**
 
 Our database: Diabetes 130-US Hospitals for Years 1999-2008 https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
